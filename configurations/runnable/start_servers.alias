@@ -1,0 +1,3 @@
+# Start all the connected vpn servers around the world
+start_server localhost 8090
+start_server localhost 9080
